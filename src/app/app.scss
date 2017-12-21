@@ -14,3 +14,24 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+
+.transparentBody {
+  background: transparent !important;
+}
+
+.font-smaller {
+  font-size: 1rem !important;
+}
+
+.font-bigger {
+  font-size: 3rem !important;
+}
+
+.font-normal {
+  font-size: 1.4rem !important;
+}
+
+.hidden {
+  display: none !important;
+}
